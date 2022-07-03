@@ -2,9 +2,13 @@
 
 About my work!.
 
+## Local Dvelopment
+
+1. Open index.html in web browser
+
 ## GitHub Pages
 
-Here has my GitHub page link as requested.
+Here is my GitHub page link as requested.
 <<<<<<< HEAD
 
 https://folajimioflagos.github.io/task_c/
